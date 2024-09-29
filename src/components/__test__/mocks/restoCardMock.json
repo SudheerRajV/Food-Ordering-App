@@ -1,0 +1,214 @@
+{
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "12126",
+              "name": "Subway",
+              "city": "Hyderabad",
+              "slugs": {
+                "restaurant": "subway-attapur",
+                "city": "hyderabad"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/4/b9c7807f-59bb-4e91-83d4-5048d293f44e_12126.JPG",
+              "locality": "Langer Houz -Suncity- Bandlaguda",
+              "areaName": "Langar Houz",
+              "costForTwo": "35000",
+              "costForTwoMessage": "₹350 for two",
+              "cuisines": [
+                "Fast Food",
+                "Salads"
+              ],
+              "avgRating": 4.8,
+              "feeDetails": {
+                "restaurantId": "12126",
+                "fees": [
+                  {
+                    "name": "TYPE_DISTANCE",
+                    "fee": 3900
+                  },
+                  {
+                    "name": "TYPE_TIME"
+                  }
+                ],
+                "totalFee": 3900,
+                "title": "Delivery Charge",
+                "amount": "3900",
+                "icon": "v1648635511/Delivery_fee_new_cjxumu",
+                "message": "<b>3.8 kms</b> | ₹39 Delivery fee will apply"
+              },
+              "parentId": "2",
+              "avgRatingString": "3.8",
+              "totalRatingsString": "6.5K+ ratings",
+              "sla": {
+                "restaurantId": "12126",
+                "deliveryTime": 36,
+                "minDeliveryTime": 35,
+                "maxDeliveryTime": 40,
+                "lastMileTravel": 3.8,
+                "serviceability": "SERVICEABLE",
+                "stressFactor": 1,
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "zoneId": 196,
+                "slaString": "35-40 MINS",
+                "lastMileTravelString": "3.7 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2024-09-29 23:59:00",
+                "visibility": true,
+                "opened": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "aggregatedDiscountInfo": {
+                "shortDescriptionList": [
+                  {
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "10% off upto ₹150 |  Use HSBCFEST Above ₹499",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "30% off upto ₹150 |  Use AXIS30 Above ₹200",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {
+                
+              },
+              "slugString": "subway-attapur",
+              "multiOutlet": true,
+              "isOpen": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "Plot No - 9-1-364/A/A/B, Gandipet Mainroad, Opp Babu Ghat Park, Langarhouz, Hyderabad"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Fast Food,Salads"
+                }
+              ],
+              "logo": "v1675752975/Brand logo/Subway",
+              "totalRatings": 6500,
+              "aggregatedDiscountInfoV2": {
+                "shortDescriptionList": [
+                  {
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "10% off upto ₹150 |  Use HSBCFEST Above ₹499",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "30% off upto ₹150 |  Use AXIS30 Above ₹200",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "couponDetailsCta": "View coupon details"
+              },
+              "type": "F",
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/12126"
+              },
+              "expectationNotifiers": [
+                {
+                  "text": "<b>3.8 kms</b> | ₹39 Delivery fee will apply",
+                  "icon": {
+                    "imageId": "v1648635511/Delivery_fee_new_cjxumu"
+                  },
+                  "popup": {
+                    "cta": {
+                      
+                    }
+                  },
+                  "type": "DISTANCE_FEE_NON_FOOD_LM",
+                  "enrichedText": "<b>3.8 kms</b> | ₹39 Delivery fee will apply",
+                  "halfCardPopup": {
+                    "halfCardPopupHeader": {
+                      
+                    }
+                  },
+                  "trailingIcon": {
+                    
+                  }
+                }
+              ],
+              "generalPurposeInfoListV2": [
+                {
+                  "cta": {
+                    "info": {
+                      "recordings": {
+                        
+                      }
+                    },
+                    "linkCta": {
+                      
+                    }
+                  }
+                }
+              ],
+              "ratingSlab": "RATING_SLAB_4",
+              "orderabilityCommunication": {
+                "title": {
+                  
+                },
+                "subTitle": {
+                  
+                },
+                "message": {
+                  
+                },
+                "customIcon": {
+                  
+                }
+              },
+              "hasBestsellerItems": true,
+              "hasGuiltfreeItems": true,
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "latLong": "17.3734415,78.4111927",
+              "backgroundImageOverlayInfo": {
+                
+              },
+              "featuredSectionInfo": {
+                
+              }
+            },
+            "analytics": {
+              
+            }
+        }
